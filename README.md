@@ -1,4 +1,4 @@
-<!-- 
+
 
 # Description
 
@@ -78,7 +78,7 @@ Clone this repository to desired location
 
 ```Shell
 git clone https://github.com/29ravikant-akash/freshcart
-``` -->
+```
 
 <br>
 ### Env Variables
