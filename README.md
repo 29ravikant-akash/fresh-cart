@@ -1,4 +1,4 @@
-<!-- # [ProShop eCommerce Platform](https://xander-proshop.herokuapp.com/)
+<!-- 
 
 # Description
 
@@ -17,7 +17,7 @@ eCommerce platform built with the MERN stack & Redux. This app includes authenti
 - Admin Order details page
 - Mark orders as delivered option
 - Checkout process (shipping, payment method, etc)
-- PayPal / credit card integration
+- PayPal / credit card integration(not completed)
 - Database seeder (products & users)
 
 ##### \*This project is based on Brad Traversy's MERN eCommerce From Scratch
@@ -36,7 +36,7 @@ eCommerce platform built with the MERN stack & Redux. This app includes authenti
 ## Live demo
 
 Live demo of the app is hosted on Heroku.  
-Visit [https://xander-proshop.herokuapp.com/](https://xander-proshop.herokuapp.com/)
+Visit [https://veg-shop-se.herokuapp.com/](https://veg-shop-se.herokuapp.com/)
 
 Test users credentials:
 
@@ -77,7 +77,7 @@ _Due to demo reasons and heroku free terms, if an app receives no web traffic in
 Clone this repository to desired location
 
 ```Shell
-git clone https://github.com/XanderUZZZER/proShop.git
+git clone https://github.com/29ravikant-akash/freshcart
 ``` -->
 
 <br>
