@@ -24,12 +24,13 @@ eCommerce platform built with the MERN stack & Redux. This app includes authenti
 
 <br>
 <p align="center">
-  <img src="./screenshots/PS1.jpg" width="49%" />  
-  <img src="./screenshots/PS3.jpg" width="49%" />
-  <img src="./screenshots/PS6.jpg" width="49%" />
-  <img src="./screenshots/PS2.jpg" width="49%" />
-  <img src="./screenshots/PS4.jpg" width="49%" />
-  <img src="./screenshots/PS5.jpg" width="49%" />
+  <img src="./screenshots/PS1.png" width="49%" />  
+  <img src="./screenshots/PS3.png" width="49%" />
+  <img src="./screenshots/PS6.png" width="49%" />
+  <img src="./screenshots/PS2.png" width="49%" />
+  <img src="./screenshots/PS4.png" width="49%" />
+  <img src="./screenshots/PS5.png" width="49%" />
+  <img src="./screenshots/PS7.png" width="49%" />
 </p>
 
 ## Live demo
